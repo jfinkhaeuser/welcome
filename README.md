@@ -41,4 +41,4 @@ Thanks to an EU grant, I can focus on some [peer-to-peer protocol work](https://
 That's how I'd like to spend a lot of my time, to be honest, and only
 sponsorship can carry it through to a fruitful conclusion.
 
-The landing page for this is the [interpeer](https://interpeer.io) website.
+There is a [GitLab organization](https://gitlab.com/interpeer/) with a repository overview.
