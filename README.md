@@ -18,6 +18,9 @@ even in a publishable shape.
   If I find time, I want to add data validation features to it, so it can be
   used as a component in an API server, or for testing purposes.
 
+  **Note**: you can [adopt prance](https://github.com/jfinkhaeuser/prance/issues/91).
+    Unfortunately, I do not have spare energy to invest into it.
+
 
 # C++
 
@@ -34,9 +37,9 @@ have been obsoleted by now.
 
 # Peer-to-Peer
 
-Thanks to a EU grant, I can focus on some peer-to-peer protocol work. That's
-how I'd like to spend a lot of my time, to be honest, and only sponsorship can
-carry it through to a fruitful conclusion.
+Thanks to a EU grant, I can focus on some [peer-to-peer protocol work](https://interpeer.io).
+That's how I'd like to spend a lot of my time, to be honest, and only
+sponsorship can carry it through to a fruitful conclusion.
 
 The landing page for this is the [interpeer](https://gitlab.com/interpeer) gitlab
 group. Repos will appear there as the work progresses.
