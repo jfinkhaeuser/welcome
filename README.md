@@ -37,9 +37,8 @@ have been obsoleted by now.
 
 # Peer-to-Peer
 
-Thanks to a EU grant, I can focus on some [peer-to-peer protocol work](https://interpeer.io).
+Thanks to an EU grant, I can focus on some [peer-to-peer protocol work](https://interpeer.io).
 That's how I'd like to spend a lot of my time, to be honest, and only
 sponsorship can carry it through to a fruitful conclusion.
 
-The landing page for this is the [interpeer](https://gitlab.com/interpeer) gitlab
-group. Repos will appear there as the work progresses.
+The landing page for this is the [interpeer](https://interpeer.io) website.
